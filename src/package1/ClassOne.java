@@ -11,6 +11,9 @@ public class ClassOne {
 
         System.out.println("Hi guys");
 
+
+        System.out.println("Welcome everyone");
+
     }
 
 
